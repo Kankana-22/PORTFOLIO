@@ -93,8 +93,8 @@ npm run deploy
 
 If you’d like to connect, feel free to reach out:
 
-* 📧 Email: [your.email@example.com](kankanadas2482@gmail.com)
-* 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/kankana-das-7a94a62b2/)
+* 📧 Email: [Kankana](kankanadas2482@gmail.com)
+* 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kankana-das-7a94a62b2/)
 
 ---
 
