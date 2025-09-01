@@ -1,16 +1,108 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+````markdown
+# 🌐 My Portfolio
 
-Currently, two official plugins are available:
+This is my personal **Portfolio Website** built with **React**, **Vite**, and **Tailwind CSS**.  
+It showcases my skills, projects, and experience in a clean, modern design with smooth navigation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+- ⚡ Built with **React + Vite** for fast development and hot module replacement (HMR)  
+- 🎨 Styled with **Tailwind CSS** for responsive and modern UI  
+- 📱 Fully responsive design (works on desktop & mobile)  
+- 🔗 Smooth navigation across sections  
+- 🌙 Light and Dark mode support  
+- 🎥 Live demo video included  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
 
-
-
+## 📹 Demo
 [▶ Watch Demo Video (Google Drive)](https://drive.google.com/file/d/1XTOo97jqJLDMRUSONuntdWyDYncNyfEw/view?usp=drive_link)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```sh
+git clone https://github.com/your-username/portfolio.git
+cd portfolio
+````
+
+### 2. Install dependencies
+
+```sh
+npm install
+```
+
+### 3. Run the development server
+
+```sh
+npm run dev
+```
+
+### 4. Build for production
+
+```sh
+npm run build
+```
+
+---
+
+## 🛠️ Tech Stack
+
+* [React](https://react.dev/)
+* [Vite](https://vitejs.dev/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [React Router](https://reactrouter.com/)
+* [Lucide React Icons](https://lucide.dev/)
+
+---
+
+## 📂 Folder Structure
+
+```
+portfolio/
+ ├── public/          # Static assets
+ ├── src/
+ │   ├── assets/      # Images, icons
+ │   ├── components/  # Reusable UI components
+ │   ├── pages/       # Portfolio sections (Home, About, Projects, Contact)
+ │   ├── App.jsx
+ │   └── main.jsx
+ ├── package.json
+ └── tailwind.config.js
+```
+
+---
+
+## 🌟 Deployment
+
+This portfolio can be deployed on **GitHub Pages**, **Vercel**, or **Netlify**.
+For GitHub Pages:
+
+```sh
+npm run build
+npm run deploy
+```
+
+---
+
+## 📬 Contact
+
+If you’d like to connect, feel free to reach out:
+
+* 📧 Email: [your.email@example.com](kankanadas2482@gmail.com)
+* 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/kankana-das-7a94a62b2/)
+
+---
+
+⭐ Don’t forget to **star this repo** if you like it!
+
+```
+
+---
+
+👉 Do you want me to also make the **Google Drive video link appear as a clickable thumbnail (like a YouTube preview button)** instead of just plain text?
+```
